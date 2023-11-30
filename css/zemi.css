@@ -1,0 +1,142 @@
+* {
+  font-family: "Noto Sans JP", sans-serif;
+  margin: 0;
+}
+
+p {
+  line-height: 2em;
+}
+
+h2,
+.yellow_text,
+.description {
+  text-align: center;
+}
+
+h2 {
+  padding-top: 95px;
+  margin-bottom: 60px;
+  letter-spacing: 0.25em;
+}
+
+.font_change {
+  font-family: "Expletus Sans", cursive;
+}
+
+/* ここからTOP */
+.top_logo {
+  text-decoration: none;
+  color: black;
+  font-size: 2rem;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  padding: 10px;
+  z-index: 1000;
+}
+
+#top {
+  text-align: center;
+  padding-top: 100px;
+  background-color: pink;
+  color: white;
+  height: 400px;
+}
+.title {
+  font-size: 4.5rem;
+  letter-spacing: 0.09em;
+}
+.title_frigana {
+  margin-top: -15px;
+  letter-spacing: 2em;
+}
+.subtitle {
+  letter-spacing: 0.1em;
+}
+.top_img {
+  position: relative;
+  top: 10px;
+  height: 400px;
+}
+
+.top_title {
+  margin-top: 300px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 2em;
+  letter-spacing: 0.2em;
+}
+.top_section {
+  text-align: center;
+  margin-bottom: 200px;
+  color: darkgray;
+}
+
+/* ここまでTOP */
+
+/*本文*/
+.about {
+  display: flex;
+  justify-content: center;
+}
+
+.about img {
+  width: 30%;
+}
+
+.about p {
+  margin-top: 10%;
+}
+.about2 {
+  text-align: center;
+}
+
+.loading {
+  height: 400px;
+}
+.home {
+  height: 400px;
+}
+#tokutyou {
+  text-align: left;
+  margin-left: 20px;
+}
+.kinou1 {
+  height: 400px;
+  margin-left: 150px;
+}
+.about3 {
+  width: 70%;
+  height: 9.5%;
+  background: rgb(255, 222, 228);
+  top: 240px;
+  left: 0;
+  z-index: -1;
+}
+.kinou_1 {
+  text-align: center;
+}
+#migi {
+  margin-top: 50px;
+}
+.kinou2 {
+  height: 400px;
+  margin-left: 150px;
+}
+.about4 {
+  width: 70%;
+  height: 9.5%;
+  background: rgb(255, 222, 228);
+  top: 935px;
+  right: 0;
+  z-index: -1;
+}
+.kinou_2 {
+  text-align: center;
+}
+.kakinn {
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
