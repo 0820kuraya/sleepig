@@ -100,7 +100,7 @@ h2 {
   height: 400px;
 }
 #tokutyou {
-  text-align: left;
+  text-align: center;
   margin-left: 20px;
 }
 .kinou1 {
@@ -108,8 +108,7 @@ h2 {
   margin-left: 150px;
 }
 .about3 {
-  width: 70%;
-  height: 9.5%;
+  text-align: center;
   background: rgb(255, 222, 228);
   top: 240px;
   left: 0;
@@ -123,20 +122,22 @@ h2 {
 }
 .kinou2 {
   height: 400px;
-  margin-left: 150px;
+}
+.kinou4 {
+  height: 400px;
 }
 .about4 {
-  width: 70%;
-  height: 9.5%;
+  text-align: center;
   background: rgb(255, 222, 228);
-  top: 935px;
-  right: 0;
-  z-index: -1;
 }
 .kinou_2 {
   text-align: center;
 }
 .kakinn {
-  margin-right: 30px;
   margin-bottom: 30px;
+}
+#saigo {
+  background-color: rgb(255, 222, 228);
+  text-align: center;
+  color: dimgray;
 }
